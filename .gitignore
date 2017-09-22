@@ -10,6 +10,8 @@ results/*
 *.h5
 .floyd*
 logs*/
+*train_log
+tmp_pipedir
 
 ## Linux backup files
 *~
